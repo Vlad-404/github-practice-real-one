@@ -1,7 +1,5 @@
-# Code Institute
+# My First Website
 
-Welcome USER_NAME,
+## Welcome!
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+This will be reserved for future short descriptions and need to knows.
